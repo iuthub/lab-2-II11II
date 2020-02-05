@@ -1,0 +1,12 @@
+h1{
+    color: cornflowerblue;
+}
+li{
+    color: red;
+    font-size: large;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(16, 148, 108);
+}

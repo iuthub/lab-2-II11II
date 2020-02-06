@@ -18,6 +18,7 @@ a:hover{
 	background-color: darkblue;
 	text-decoration: underline;
 }
+
 p:first-letter{
     color: darkslateblue;
     font-weight: bold;

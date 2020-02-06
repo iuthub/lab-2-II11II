@@ -10,3 +10,16 @@ li{
 body{
     background-color: rgb(16, 148, 108);
 }
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	background-color: darkblue;
+	text-decoration: underline;
+}
+p:first-letter{
+    color: darkslateblue;
+    font-weight: bold;
+    font-size: 200%;
+}
